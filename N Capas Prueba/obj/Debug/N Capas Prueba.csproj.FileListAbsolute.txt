@@ -1,0 +1,24 @@
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\bin\Debug\N Capas Prueba.exe.config
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\bin\Debug\N Capas Prueba.exe
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\bin\Debug\N Capas Prueba.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\bin\Debug\ConnBD.dll
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\bin\Debug\ConnBD.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\obj\Debug\N_Capas_Prueba.Form1.resources
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\obj\Debug\N_Capas_Prueba.Properties.Resources.resources
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.csproj.CopyComplete
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.exe
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\bin\Debug\N Capas Prueba.exe.config
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.exe
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\bin\Debug\N Capas Prueba.exe
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\bin\Debug\N Capas Prueba.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\bin\Debug\ConnBD.dll
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\bin\Debug\ConnBD.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\obj\Debug\N_Capas_Prueba.Form1.resources
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\obj\Debug\N_Capas_Prueba.Properties.Resources.resources
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\N Capas Prueba\obj\Debug\N Capas Prueba.csproj.GenerateResource.Cache

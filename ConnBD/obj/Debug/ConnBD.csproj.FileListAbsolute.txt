@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\ConnBD\bin\Debug\ConnBD.dll
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\ConnBD\bin\Debug\ConnBD.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\ConnBD\obj\Debug\ConnBD.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\ConnBD\obj\Debug\ConnBD.dll
+C:\Users\usuario\Desktop\Rodrigo Moscoso\30072021\UI\ConnBD\obj\Debug\ConnBD.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\ConnBD\bin\Debug\ConnBD.dll
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\ConnBD\bin\Debug\ConnBD.pdb
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\ConnBD\obj\Debug\ConnBD.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\ConnBD\obj\Debug\ConnBD.dll
+C:\Users\usuario\Desktop\Rodrigo Moscoso\02082021\UI\ConnBD\obj\Debug\ConnBD.pdb
